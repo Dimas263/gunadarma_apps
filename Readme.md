@@ -1,4 +1,4 @@
-# Gunadarma Apps
+# <img src="https://img.icons8.com/material-outlined/100/undefined/github.png"/> Gunadarma Apps
 
 aplikasi untuk membantu dan mempermudah mahasiswa gunadarma
 
